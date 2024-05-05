@@ -37,3 +37,5 @@ Por ejemplo, podríamos decir que en el siguiente ejemplo caben 5 rectángulos d
 # Hola soy Manuel Salazar, estare desarrollando la tarea, para instalar el proyecto:
 - Clonar el repositorio desde Github y en consola ejectuar npm i 
 - realizaré la formula para la tarea y una Form para poder probar el algoritmo.
+
+-para ver en vivo = https://ruufsolar-manolos05s-projects.vercel.app/
