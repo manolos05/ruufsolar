@@ -39,3 +39,4 @@ Por ejemplo, podríamos decir que en el siguiente ejemplo caben 5 rectángulos d
 - realizaré la formula para la tarea y una Form para poder probar el algoritmo.
 
 -para ver en vivo = https://ruufsolar-manolos05s-projects.vercel.app/
+- video presentación = https://drive.google.com/file/d/1xAwK84R80sOMjyaZA_H_0mS9Lts-4A73/view?usp=drive_link
